@@ -70,14 +70,14 @@ class _CalculatorUIState extends State<CalculatorUI> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Switch(
-                trackColor: MaterialStateColor.resolveWith((states) {
-                  if (states.contains(MaterialState.selected)) {
+                trackColor: WidgetStateColor.resolveWith((states) {
+                  if (states.contains(WidgetState.selected)) {
                     return Colors.white60;
                   }
                   return const Color(0xFFD9D9D9);
                 }),
-                thumbIcon: MaterialStateProperty.resolveWith((states){
-                  if (states.contains(MaterialState.selected)) {
+                thumbIcon: WidgetStateProperty.resolveWith((states){
+                  if (states.contains(WidgetState.selected)) {
                     return const Icon(Icons.light_mode);
                   }
                   return const Icon(Icons.dark_mode);
