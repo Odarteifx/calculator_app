@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:math_expressions/math_expressions.dart';
 
-
 bool lightmode = true;
 class CalculatorUI extends StatefulWidget {
   const CalculatorUI({super.key});

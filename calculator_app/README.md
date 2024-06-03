@@ -2,7 +2,12 @@ A Calculator app designed with figma and built with flutter
 by William Lamptey
 
 Screenshots Of Calculator App
+
 Dark Mode
-![Dark Mode](screenshots/darkmode.png)
+![DarkMode](screenshots/darkmode.png)
+
 Light Mode
-![Light Mode](screenshots/lightmode.png)
+![LightMode](screenshots/lightmode.png)
+
+App Ui Design
+https://www.behance.net/gallery/185850207/A-Calculator-App/modules/1050639215
