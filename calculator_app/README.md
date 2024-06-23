@@ -3,10 +3,10 @@ by William Lamptey
 
 Screenshots Of Calculator App
 
-                         Dark Mode
+  Dark Mode
 <img src="screenshots/darkmode.png" alt="DarkMode" height="500">
 
-                         Light Mode
+ Light Mode
 <img src="screenshots/lightmode.png" alt="LightMode" height="500"> 
 
 App Ui Design
