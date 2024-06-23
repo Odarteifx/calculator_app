@@ -4,10 +4,10 @@ by William Lamptey
 Screenshots Of Calculator App
 
 Dark Mode
-<img src="screenshots/darkmode.png" alt="DarkMode" width="144" height="144">
+<img src="screenshots/darkmode.png" alt="DarkMode" height="500">
 
 Light Mode
-<img src="screenshots/lightmode.png" alt="LightMode" width="144" height="144"> 
+<img src="screenshots/lightmode.png" alt="LightMode" height="500"> 
 
 App Ui Design
 https://www.behance.net/gallery/185850207/A-Calculator-App/modules/1050639215
